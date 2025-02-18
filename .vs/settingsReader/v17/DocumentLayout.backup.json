@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1.Project\\settingsReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71543641-96E1-4521-8964-B9BF8C5BEAF2}|settingsReader\\settingsReader.vcxproj|D:\\1.Project\\settingsReader\\settingsReader\\settingsReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71543641-96E1-4521-8964-B9BF8C5BEAF2}|settingsReader\\settingsReader.vcxproj|solutionrelative:settingsReader\\settingsReader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "settingsReader.cpp",
+              "DocumentMoniker": "D:\\1.Project\\settingsReader\\settingsReader\\settingsReader.cpp",
+              "RelativeDocumentMoniker": "settingsReader\\settingsReader.cpp",
+              "ToolTip": "D:\\1.Project\\settingsReader\\settingsReader\\settingsReader.cpp",
+              "RelativeToolTip": "settingsReader\\settingsReader.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAWwDEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T13:48:53.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
