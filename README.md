@@ -30,3 +30,9 @@ Mode=
 Vid=
 FolderType=Generic
 ```
+```C++
+GetPrivateProfileInt(L"Buttons", L"button", buttonId, settings);
+```
+В этом коде 1 перегрузкой считывается названием секции, 2 перегрузкой считывается название параметра, 3 получение значения параметра, 4 путь к файлу.
+
+
